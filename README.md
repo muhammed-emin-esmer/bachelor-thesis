@@ -109,4 +109,4 @@ Hinweis: Die erste Code-Zelle nutzt `google.colab.files` und funktioniert nur in
 
 **Muhammed Emin Esmer**
 Wirtschaftswissenschaften, Ondokuz Mayıs Üniversitesi
-GitHub: https://github.com/muhammed-emin-esmer · E-Mail: meesmer36@gmail.com
+E-Mail: meesmer36@gmail.com
